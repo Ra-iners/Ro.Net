@@ -35,4 +35,5 @@ foreach (ulong GroupID in User.getUserGroups(User.Id))
     Console.WriteLine("\n");
     Group.Dispose();
 }
+User.Dispose();
 ```

@@ -1,0 +1,8 @@
+C:\Users\white\source\repos\Ro.NET\Ro.NET\obj\Debug\Ro.NET.csprojAssemblyReference.cache
+C:\Users\white\source\repos\Ro.NET\Ro.NET\bin\Debug\Ro.NET.dll
+C:\Users\white\source\repos\Ro.NET\Ro.NET\bin\Debug\Ro.NET.pdb
+C:\Users\white\source\repos\Ro.NET\Ro.NET\bin\Debug\Newtonsoft.Json.dll
+C:\Users\white\source\repos\Ro.NET\Ro.NET\bin\Debug\Newtonsoft.Json.xml
+C:\Users\white\source\repos\Ro.NET\Ro.NET\obj\Debug\Ro.NET.csproj.CopyComplete
+C:\Users\white\source\repos\Ro.NET\Ro.NET\obj\Debug\Ro.NET.dll
+C:\Users\white\source\repos\Ro.NET\Ro.NET\obj\Debug\Ro.NET.pdb
